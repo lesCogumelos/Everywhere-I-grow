@@ -106,7 +106,7 @@ sections:
     text: |+
       <iframe
         src="https://app.manifold.xyz/c/amour-psychedelique"
-        style="width:100%; min-height:100vh; border:none;"
+        style="width:100%; min-height:400vh; border:none;"
         allow="clipboard-write">
       </iframe>
 
