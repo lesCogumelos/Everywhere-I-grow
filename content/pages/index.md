@@ -29,12 +29,6 @@ sections:
         textAlign: left
     type: HeroSection
     actions: []
-    media:
-      type: ImageBlock
-      url: /images/Everywhere I grow v3 Twitter.gif
-      altText: altText of the image
-      caption: Caption of the image
-      elementId: ''
   - type: MediaGallerySection
     title: Gallery
     subtitle: This is the subtitle
