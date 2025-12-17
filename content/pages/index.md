@@ -7,7 +7,11 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: EVEYWHERE I GROW
-    subtitle: "An on-going artistic project. Everytime the artist spend more than 12 days in a place or region, a new collage is created. Everything is unpredictable, everything is impermanent. Except for the woman wandering - and growing.\_ conceive in 2021, released in 2023, and now updated for its 3rd version"
+    subtitle: >-
+      An on-going artistic project. Everytime the artist, lesCogumelos, spends
+      more than 12 days in a place or region, a new collage is created.
+      Everything is unpredictable, everything is impermanent. Conceived in 2021,
+      released in 2023, and currently in its 3rd version, updated in 2025.
     styles:
       self:
         height: auto
