@@ -36,7 +36,7 @@ sections:
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/everywhere i grow 2 gif (1).gif
         altText: Image one
         caption: Image one caption
         elementId: ''
