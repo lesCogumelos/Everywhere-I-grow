@@ -72,6 +72,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: center
+        borderRadius: x-small
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
