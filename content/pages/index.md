@@ -31,7 +31,7 @@ sections:
     type: HeroSection
     actions: []
   - type: MediaGallerySection
-    title: DYNAMIC ART
+    title: MOVING ART
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
