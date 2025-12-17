@@ -35,7 +35,7 @@ sections:
     subtitle: The art and the artist - a work in progress
     images:
       - type: ImageBlock
-        url: /images/gallery-2.jpg
+        url: /images/everywhere-i-grow-gif (1).gif
         altText: Image two
         caption: Image two caption
         elementId: ''
