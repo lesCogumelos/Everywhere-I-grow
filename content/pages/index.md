@@ -74,6 +74,7 @@ sections:
         textAlign: center
         borderRadius: x-small
         borderColor: border-(--theme-secondary)
+        borderStyle: dashed
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
