@@ -41,6 +41,8 @@ import { TextFormControlModel } from './TextFormControl';
 import { TextSectionModel } from './TextSection';
 import { ThemeStyleModel } from './ThemeStyle';
 import { VideoBlockModel } from './VideoBlock';
+import ManifoldSection from './ManifoldSection';
+
 
 export const allModels = [
     BackgroundImageModel,
@@ -85,5 +87,6 @@ export const allModels = [
     TextFormControlModel,
     TextSectionModel,
     ThemeStyleModel,
+    ManifoldSection,
     VideoBlockModel
 ];
