@@ -73,6 +73,7 @@ sections:
           - pr-4
         textAlign: center
         borderRadius: x-small
+        borderColor: border-(--theme-dark)
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
