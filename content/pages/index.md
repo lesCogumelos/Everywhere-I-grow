@@ -50,7 +50,7 @@ sections:
         caption: Image three caption
         elementId: ''
       - type: ImageBlock
-        url: /images/f3832250517301f2c46f049db9ecd3f5.gif
+        url: /images/bg4.jpg
         altText: Image four
         caption: Image four caption
         elementId: ''
