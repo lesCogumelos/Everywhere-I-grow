@@ -8,9 +8,10 @@ sections:
     backgroundSize: full
     title: EVEYWHERE I GROW
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      An on-going artistic project. Everytime the artist spend more than 12 days
+      in a place or region, a new collage is created. Everything is
+      unpredictable, everything is impermanent. Except for the woman wandering -
+      and growing.
     styles:
       self:
         height: auto
