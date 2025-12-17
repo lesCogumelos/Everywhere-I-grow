@@ -103,13 +103,13 @@ sections:
     subtitle: Projects
   - type: TextSection
     title: The Section Title
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: |+
+      <iframe
+        src="https://app.manifold.xyz/c/amour-psychedelique"
+        style="width:100%; min-height:100vh; border:none;"
+        allow="clipboard-write">
+      </iframe>
+
     colors: colors-f
     variant: variant-b
     elementId: ''
