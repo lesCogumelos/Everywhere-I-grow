@@ -127,16 +127,18 @@ sections:
   - type: TextSection
     title: The Section Title
     text: |+
-      <div style="
-        max-width: 1400px;
-        margin: 0 auto;
-      ">
-        <iframe
-          src="https\://app.manifold.xyz/c/amour-psychedelique"
-          style="width:100%; min-height:90vh; border:none;"
-          allow="clipboard-write">
-        </iframe>
-      </div>
+      <style>
+      .full-bleed {
+        max-width: none !important;
+        width: 100vw !important;
+      }
+      </style>
+
+      <iframe
+        src="https\://app.manifold.xyz/c/amour-psychedelique"
+        style="width:100%; min-height:100vh; border:none;"
+        allow="clipboard-write">
+      </iframe>
 
     colors: colors-f
     variant: variant-a
