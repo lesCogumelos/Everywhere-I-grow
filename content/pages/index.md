@@ -45,7 +45,7 @@ sections:
         caption: Image one caption
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-3.jpg
+        url: /images/Everywhere I grow v3 Twitter.gif
         altText: Image three
         caption: Image three caption
         elementId: ''
