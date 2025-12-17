@@ -105,12 +105,12 @@ sections:
     title: The Section Title
     text: |+
       <div style="
-        width: 100vw;
-        margin-left: calc(50% - 50vw);
+        max-width: 1400px;
+        margin: 0 auto;
       ">
         <iframe
           src="https\://app.manifold.xyz/c/amour-psychedelique"
-          style="width:100%; min-height:100vh; border:none;"
+          style="width:100%; min-height:90vh; border:none;"
           allow="clipboard-write">
         </iframe>
       </div>
