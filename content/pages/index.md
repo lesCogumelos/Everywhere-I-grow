@@ -32,7 +32,7 @@ sections:
     actions: []
   - type: MediaGallerySection
     title: MOVING ART
-    subtitle: This is the subtitle
+    subtitle: The art and the artist - a work in progress
     images:
       - type: ImageBlock
         url: /images/everywhere i grow 2 gif (1).gif
