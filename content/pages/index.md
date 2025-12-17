@@ -50,7 +50,7 @@ sections:
     styles:
       self:
         height: auto
-        width: full
+        width: narrow
         padding:
           - pt-24
           - pb-24
